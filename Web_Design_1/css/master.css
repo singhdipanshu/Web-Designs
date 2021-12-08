@@ -1,3 +1,8 @@
+body {
+  font-family: 'Manrope';
+  background-color: #F1F1F6;
+}
+
 .navigation-bar {
   padding: 50px 50px 0;
 }
@@ -9,20 +14,6 @@
 
 .title-text {
   color: #888888;
-}
-
-body {
-  font-family: 'Manrope';
-  background-color: #F1F1F6;
-}
-
-.body-content {
-  padding: 0 60px;
-}
-
-.body-content .btn {
-  margin: 10px;
-  padding: 10px 20px;
 }
 
 .collapse {
@@ -39,7 +30,12 @@ body {
 }
 
 .body-content {
-  margin-top: 30px;
+  padding: 0 60px;
+}
+
+.body-content .btn {
+  margin: 10px;
+  padding: 10px 20px;
 }
 
 .info-text {
@@ -82,10 +78,10 @@ footer .row {
   padding: 0 80px;
 }
 
-a {
-  text-decoration: none;
-}
-
 h5 {
   font-weight: 700;
+}
+
+a {
+  text-decoration: none;
 }
